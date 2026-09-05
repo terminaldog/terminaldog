@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./banner.svg" alt="Hi 👋 在学编程 · 慢慢积累" width="100%" />
+  <img src="./banner2.svg" alt="Hi 👋" width="100%" />
 </p>
