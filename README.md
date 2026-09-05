@@ -1,7 +1,3 @@
-# Hi 👋
-
-网络安全学习者 · C 语言自学中
-
-- 方向：安全研究（CTF / 渗透练习）
-- 在学：C 语言
-- 兴趣：3D 网页开发 · AI 工具
+<p align="center">
+  <img src="./banner.svg" alt="Hi 👋 在学编程 · 慢慢积累" width="100%" />
+</p>
